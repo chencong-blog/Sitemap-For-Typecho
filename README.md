@@ -27,6 +27,3 @@
 #### 演示地址
 
 https://chencong.blog/sitemap.xml
-
-
-![软件截图](screenshot.png)
